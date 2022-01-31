@@ -1,2 +1,8 @@
+.bloop
+.coursier
+.history
+.metals
+.vscode
 *.class
 *.log
+out/
